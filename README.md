@@ -6,10 +6,6 @@ I'm Nicholas (but I don't mind Penguin - please not Adam though). Welcome to my 
  - I'm learning how to make Firefox extensions (see below)
  - I'm currently working on [snaplibs](https://github.com/AdamantPenguin/snaplibs)
  - Please help me with [snaplibs](https://github.com/AdamantPenguin/snaplibs)
-#### Cool repos you should look at
- - [jmoenig/Snap](https://github.com/jmoenig/Snap)
- - something else that I forgot
-
 <!--
 **AdamantPenguin/AdamantPenguin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
