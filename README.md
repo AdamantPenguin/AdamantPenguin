@@ -1,4 +1,4 @@
-### Hello there friend!
+### Hello
 I'm Nicholas (but I don't mind Penguin - please not Adam though). Welcome to my profile!
  - Pronouns: he/him
  - Discord: AdamantPenguin#9695
